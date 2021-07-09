@@ -51,7 +51,7 @@
                     </div>
 
             </div>
-            <div class="image" style="margin-right: 100px; height: 600px">
+            <div class="image" style="margin-right: 100px; height: 150px">
                 <img src="images/teste.jpg" alt="" />
             </div>
         </section>
